@@ -106,7 +106,7 @@ class DemoScreen extends StatelessWidget {
 
 ```
 ## 📸 Preview
-
+ 
 <img alt="demo_screenshot.jpg" src="assets/images/demo_screenshot.jpg" width="360"/>
 
 ## 🎛 Parameters
