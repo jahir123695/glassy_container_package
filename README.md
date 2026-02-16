@@ -106,8 +106,10 @@ class DemoScreen extends StatelessWidget {
 
 ```
 ## 📸 Preview
- 
-<img alt="demo_screenshot.jpg" src="assets/images/demo_screenshot.jpg" width="360"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jahir123695/glassy_container_package/main/assets/images/demo_screenshot.jpg" width="360" />
+</p>
 
 ## 🎛 Parameters
 
