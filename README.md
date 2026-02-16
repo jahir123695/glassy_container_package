@@ -111,13 +111,15 @@ class DemoScreen extends StatelessWidget {
 
 ## 🎛 Parameters
 
-Parameter	Type	Default	Description
-child	Widget	required	Content inside glass container
-blur	double	15	Background blur intensity
-borderRadius	double	20	Corner radius
-opacity	double	0.15	Glass fill opacity
-width	double?	null	Custom width
-height	double?	null	Custom height
+| Parameter      | Type     | Default  | Description                         |
+|---------------|----------|----------|-------------------------------------|
+| child         | Widget   | required | Content inside glass container      |
+| blur          | double   | 15       | Background blur intensity           |
+| borderRadius  | double   | 20       | Corner radius                       |
+| opacity       | double   | 0.15     | Glass fill opacity                  |
+| width         | double?  | null     | Custom width                        |
+| height        | double?  | null     | Custom height                       |
+
 
 ## ❤️ Support
 
