@@ -126,7 +126,7 @@ class DemoScreen extends StatelessWidget {
 If you like this package, consider giving it a ⭐ on GitHub.
 
 🔗 GitHub Repository:  
-https://github.com/jahir123695/glassy_container_package.git
+https://github.com/jahir123695/glassy_container_package
 
 ---
 
