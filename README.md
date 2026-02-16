@@ -124,7 +124,7 @@ height	double?	null	Custom height
 If you like this package, consider giving it a ⭐ on GitHub.
 
 🔗 GitHub Repository:  
-https://github.com/yourusername/liquid_glassy_container
+https://github.com/jahir123695/glassy_container_package.git
 
 ---
 

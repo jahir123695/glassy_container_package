@@ -2,6 +2,10 @@ name: liquid_glassy_container
 description: A modern and customizable glassmorphism (liquid glass) container widget for Flutter.
 version: 0.0.1
 
+homepage: https://github.com/jahir123695/glassy_container_package
+repository: https://github.com/jahir123695/glassy_container_package
+issue_tracker: https://github.com/jahir123695/glassy_container_package/issues
+
 environment:
   sdk: ">=3.0.0 <4.0.0"
   flutter: ">=3.0.0"
