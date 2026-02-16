@@ -131,3 +131,11 @@ https://github.com/jahir123695/glassy_container_package
 ---
 
 Crafted with 🤎 by Mohamad Jahir
+
+## 👤 Author
+
+Mohamad Jahir  
+Flutter Developer
+
+🔗 GitHub: https://github.com/jahir123695  
+🔗 LinkedIn: https://www.linkedin.com/in/mohammad-jahir-flutter-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
