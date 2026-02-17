@@ -8,6 +8,7 @@ class LiquidGlassyContainer extends StatelessWidget {
   final double opacity;
   final double? height;
   final double? width;
+  final double? borderWidth;
 
   const LiquidGlassyContainer({
     super.key,
@@ -16,7 +17,8 @@ class LiquidGlassyContainer extends StatelessWidget {
     this.borderRadius = 20,
     this.opacity = 0.15,
     this.height,
-    this.width
+    this.width,
+    this.borderWidth
   });
 
   @override
@@ -36,6 +38,7 @@ class LiquidGlassyContainer extends StatelessWidget {
             borderRadius: BorderRadius.circular(borderRadius),
             border: Border.all(
               color: Colors.white.withOpacity(0.3),
+              width: borderWidth??1
             ),
           ),
           child: child,

@@ -103,7 +103,7 @@ class DemoScreen extends StatelessWidget {
                             children: [
                               Row(
                                 mainAxisAlignment:
-                                    MainAxisAlignment.spaceBetween,
+                                MainAxisAlignment.spaceBetween,
                                 children: [
                                   _Pill(
                                     text: "v0.0.1",
